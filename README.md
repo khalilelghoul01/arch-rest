@@ -2,10 +2,11 @@
 
 Arch-Rest is a lightweight and flexible RESTful API framework built with TypeScript. It allows developers to create endpoints and routers easily using classes and methods, and it provides a simple and intuitive API for handling HTTP requests and responses.
 
-**Note:** `Arch-Rest is still in development and is not yet ready for production use. It is made by an amateur developer and is not yet stable. Use at your own risk. i started this project to learn more how a rest api framework works and how to build one from scratch (Learn by Doing). i will be happy if you can contribute to this project(
+**Note:** ```
+Arch-Rest is still in development and is not yet ready for production use. It is made by an amateur developer and is not yet stable. Use at your own risk. i started this project to learn more how a rest api framework works and how to build one from scratch (Learn by Doing). i will be happy if you can contribute to this project(
     Optimizations, Bug Fixes, Documentation, etc.
     or if you have any suggestions or ideas to improve this project, please feel free to open an issue
-). the documentation is not yet complete and will be updated soon(the current documentation is just a draft made by chatGPT).`
+). the documentation is not yet complete and will be updated soon(the current documentation is just a draft made by chatGPT).```
 
 ### Getting Started
 
